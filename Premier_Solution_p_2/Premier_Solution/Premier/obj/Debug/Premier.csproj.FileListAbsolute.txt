@@ -1,0 +1,11 @@
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\bin\Debug\Premier.exe.config
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\bin\Debug\Premier.exe
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\bin\Debug\Premier.pdb
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\obj\Debug\Premier.csproj.AssemblyReference.cache
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\obj\Debug\Premier.csproj.SuggestedBindingRedirects.cache
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\obj\Debug\Premier.Form1.resources
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\obj\Debug\Premier.Properties.Resources.resources
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\obj\Debug\Premier.csproj.GenerateResource.cache
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\obj\Debug\Premier.csproj.CoreCompileInputs.cache
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\obj\Debug\Premier.exe
+C:\Users\icaza\Documents\Lexplikateur\commence-a-coder\Premier_Solution\Premier\obj\Debug\Premier.pdb
